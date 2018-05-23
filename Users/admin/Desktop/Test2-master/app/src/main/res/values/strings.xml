@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="firstNumber">Podaj pierwszą liczbę</string>
+    <string name="lastNumber">Podaj drugą liczbę</string>
+    <string name="clickAdd">Suma</string>
+    <string name="clickClear">Usuń</string>
+    <string name="clickDel">Różnica</string>
+    <string name="clickMno">Iloczyn</string>
+    <string name="clickDziel">Iloraz</string>
+</resources>
